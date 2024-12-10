@@ -20,7 +20,7 @@
     <div class="container d-flex align-items-center justify-content-between">
         <div class="hero-text">
             <h1>Apa itu Bimbingan Skripsi Online?</h1>
-            <p>Sistem Bimbingan Skripsi Online (Si Bool) adalah platform digital yang mempermudah proses 
+            <p>Sistem Bimbingan Skripsi Online (Si Biso) adalah platform digital yang mempermudah proses 
                 bimbingan antara mahasiswa dan dosen melalui fitur komunikasi, 
                 pengelolaan dokumen, serta pelacakan progres secara terstruktur dan efisien.</p>
             <button class="btn btn-primary rounded-pill px-5 py-3 mt-4">Daftar Sekarang!</button>
